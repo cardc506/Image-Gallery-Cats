@@ -1,6 +1,32 @@
+main{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
 figcaption a{
-  color: LightSeaGreen;
+  color: #00257A;
 }
 p{
   font-style: italic;
+
+}
+body{
+  font-family: 'Limelight', cursive;
+  background-color: #508AA8;
+
+}
+figcaption{
+  font-size: 14px;
+
+}
+img{
+  width: 300px;
+
+}
+figure{
+  width: 300px;
+  border: 2px solid #3370FF;
+  padding: 1em;
+  background-color: #70B3FF;
+  box-shadow: 7px 7px 5px #70B3FF
 }
