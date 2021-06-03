@@ -18,20 +18,20 @@ p{
 
 figure{
   width: 300px;
-  border: 2px solid #3370FF;
+  border: 2px solid #F59F00;
+  /** 3370ff orginal **/
   padding: 1em;
-  background-color: #70B3FF;
-  box-shadow: 7px 7px 5px #70B3FF
+  background-color: #FF6201;
+  /** 70B3FF orginal **/
+  box-shadow: 7px 7px 5px #E05600
 }
 
 figcaption{
   font-size: 14px;
 }
-
-figcaption img{
-  color: #00257A;
-}
-
 img{
   width: 300px;
+}
+a {
+  color: #521F00;
 }
